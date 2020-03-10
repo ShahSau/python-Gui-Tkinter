@@ -1,1 +1,1 @@
-# Different app using Python and it's associated libraries.
+# Different apps using Python and it's associated libraries.
